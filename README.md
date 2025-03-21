@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # NN3Layer
 C++ neural networks (MLP) implementation example use Armadillo
 
